@@ -21,3 +21,19 @@ DOMÍNIO DE OBJETIVO
 
  - CONJUNTOS DE DIMENSIONAMENTO DE VMs
 °Os conjuntos de dimensionamento oferecem uma oportunidade de balanceamento de carga para dimensionar os recusos automaticamente.
+
+ - CONJUNTOS DE DISPONIBILIDADE DE VM
+°Utilizado para ter uma alta disponibilidade.
+°São mantidas em RACK's diferentes.
+°São separadas em linhas diferentes chamadas de D.A(Domínio de Atualização.
+°A ideia é separar 3 domínios de falhas
+°Utilizado mais contra ENERGIA
+
+ - ÁREA DE TRABALHO VIRTUAL DO AZURE
+°A área de trabalho Virtual do Azure é uma virtualização de área de trabalho e aplicativo executada na nuvem.
+°Crie um ambiente completo de virtualização da área de trabalho sem precisar executar outros servidores de gateway.
+°Reduza o risco de que o recurso seja deixado para trás.
+°Implantações reais de várias sessões
+
+
+
