@@ -35,5 +35,10 @@ DOMÍNIO DE OBJETIVO
 °Reduza o risco de que o recurso seja deixado para trás.
 °Implantações reais de várias sessões
 
+ - SERVIÇOS DE CONTÊINERES DO AZURE
+°Os contêineres do Azure fornecem um ambiente leve e virtualizado que não exige o gerenciamento do sistema operacional e pode responder a alterações sob demanda.
+°Os contêineres são muitos utilizando no ambiente onpremisse
+
+
 
 
