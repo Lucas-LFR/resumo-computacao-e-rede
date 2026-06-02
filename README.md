@@ -39,6 +39,21 @@ DOMÍNIO DE OBJETIVO
 °Os contêineres do Azure fornecem um ambiente leve e virtualizado que não exige o gerenciamento do sistema operacional e pode responder a alterações sob demanda.
 °Os contêineres são muitos utilizando no ambiente onpremisse
 
+ - AZURE FUNCTIONS
+°AZURE FUNCTIONS:Uma oferta de PaaS que dá suporte a operações de computação sem servidor.
+  O código baseado em eventos é executado quando chamado, sem exigir uma infraestrutura de servidor durante períodos invativos.
+°As funções podem ser utilizadas quando você precisa executar um trabalho em resposta à um EVENTO geralmente executamos a partir de uma solicitação chamada REST.
+°As funções vão ser dimensionadas com base na demanda.
+°A function me ajuda a tomar uma proxima decisão se é executar algo ou gerar alerta.
 
-
+ - COMPARAR OPÇÕES DE COMPUTAÇÃO DO AZURE
+Máquinas virtuais
+    °Servidor baseado em nuvem que dá suporte a ambientes Windows ou Linux.
+    °Útil para migrações de lift-and-shift para nuvem.(lift-and-shift = Levar como estar)
+    °Pacote do sistema operacional completo, incluindo o sistema operacional do host.
+Área de Trabalho Virtual
+    °Fornece uma experiência de área de trabalho do windows baseada em nuvem.
+    °Aplicativos dedicados para conexão e uso ou acessíveis de qualquer navegador moderno
+    °O logon de vários clientes permite que vários usuários façam logon no mesmo computador desde que utilizem as mesmas aplicações
+4:00
 
